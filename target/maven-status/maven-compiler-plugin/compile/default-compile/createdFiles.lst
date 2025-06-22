@@ -39,4 +39,3 @@ com/qingfan/thrift/iface/CouponService$AsyncIface.class
 com/qingfan/thrift/iface/CouponService$validateCoupon_args$validateCoupon_argsTupleScheme.class
 com/qingfan/thrift/iface/CouponService$AsyncProcessor$calculateDiscount$1.class
 com/qingfan/thrift/iface/CouponService$calculateDiscount_result.class
-com/qingfan/thrift/iface/CouponService$1.class
